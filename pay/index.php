@@ -1,4 +1,4 @@
-<?php require "config/config.php" ?>
+<?php require "config(2).php" ?>
 <?php 
 
 
@@ -132,3 +132,4 @@
   </body>
  
 </html>
+
